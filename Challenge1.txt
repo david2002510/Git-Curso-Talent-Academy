@@ -1,2 +1,0 @@
-Esto forma parte del primer desafio del capitulo 1 del curso de git.
-NOTA: no esta disponible el template del curso de 2020
